@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shynif
-- 👀 I’m interested in coding games
+- 👀 I’m interested in coding in general
 - 🌱 I’m currently learning a lot
 - 📫 @DevShynif for Tweety Tweet or Shynif#4685 for Discord
 
