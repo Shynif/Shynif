@@ -1,5 +1,4 @@
 <p align="center">
-        <svg width="100%" height="100%"><image xlink:href="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&width=600&lines=%3E_+Greetings+I'm+Shynif" src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&width=600&lines=%3E_+Greetings+I'm+Shynif" width="100%" height="100%"></svg>
         <!-- Organisation  -->
         I like to code in my spare time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
         <br>Gamedev & Generative art hobbyist :)
