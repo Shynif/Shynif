@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&width=600&lines=%3E_+Greetings+I'm+Shynif">
-</p>
-
-<p align="center">
         <!-- Organisation  -->
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&center=true&vCenter=true&width=600&lines=%3E_+Greetings+I'm+Shynif"><br>
         I like to code in my spare time <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
         <br>Gamedev & Generative art hobbyist :)
         <br><br>
@@ -36,22 +33,29 @@
 
 <br><br>
 
+
+
 <!-- Details Section-->
 <details align="center">
-    <summary> &#9776; More</summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <svg width="100%" height="100%">       
-            <image xlink:href="https://github-readme-codewars-stats.herokuapp.com/api/?username=Shynif&card&colormode=dark_mode" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Shynif&card&colormode=dark_mode" width="100%" height="100%">    
-        </svg>
-        <img scr="https://github-readme-codewars-stats.herokuapp.com/api/?username=Shynif&card&colormode=dark_mode">
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="mailto:shynif.dev@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
+  
+<summary> &#9776; More</summary>
+<br>
+
+![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=Shynif&card&colormode=dark_mode)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shynif&layout=compact&hide=css,html)
+
+  
+<!-- Social Links -->
+<p>Find me on</p>
+  
+  
+<!-- Gmail -->
+<a href="mailto:shynif.dev@gmail.com" target="_blank"><img alt="Gmail"
+src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+</a>
         <!-- Twitter -->
         <a href="https://www.twitter.com/DevShynif" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white">
@@ -64,7 +68,10 @@
         <a href="https://www.youtube.com/channel/UCJds43g2Xk-pWwcQMJ8_zXg" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
-    </p>
+  
+  
+ 
+
 </details>
 <br><br>
 
